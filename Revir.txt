@@ -1,8 +1,4 @@
 The river flowed gently.
  It reflected the moonlight.
-<<<<<<< HEAD
  Nearby, an owl hooted.
-=======
- Nearby, an owl hooted loudly.
->>>>>>> branch2
  The forest seemed alive.
