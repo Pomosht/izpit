@@ -1,4 +1,8 @@
 The castle was quiet at night.
+<<<<<<< HEAD
 A lantern flickered in the dungeon.
+=======
+A lantern flickered in the cellar.
+>>>>>>> branch2
 A shadow moved behind the curtain.
 Was someone watching?
